@@ -7,7 +7,7 @@
 - [RIT](https://www.rit.edu/)
 
 ## Images
-- ![cat](https://m.media-amazon.com/images/I/51y8GUVKJoL.jpg)
+![cat](https://m.media-amazon.com/images/I/51y8GUVKJoL.jpg)
 
 ## Colors
 
