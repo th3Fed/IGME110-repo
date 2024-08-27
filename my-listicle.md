@@ -9,7 +9,5 @@
 - [Beeftank](https://x.com/petfindernames/status/1411452727511629827/photo/1)
 
 **Personal Favorites**
-1. Bank of America
-   ![Bank of America](https://pbs.twimg.com/media/E7_xTYqXIAAG_k7?format=jpg&name=large)
-2. Ed Sheeran
-   ![Ed Sheeran](https://pbs.twimg.com/media/E5UW-8SXEAYAC8U?format=jpg&name=900x900)
+1. ![Bank of America](https://pbs.twimg.com/media/E7_xTYqXIAAG_k7?format=jpg&name=large)
+2. ![Ed Sheeran](https://pbs.twimg.com/media/E5UW-8SXEAYAC8U?format=jpg&name=900x900)
